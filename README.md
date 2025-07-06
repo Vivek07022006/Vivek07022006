@@ -177,7 +177,7 @@
 * 🌐 **Full-Stack Applications** - Building scalable solutions
 * 👥 **Community Building** - Mentoring next-gen developers
 
-### 🚀 2024 Goals
+### 🚀 2025 Goals
 
 * [ ] Launch 3 major open-source projects
 * [ ] Speak at 10+ tech conferences
