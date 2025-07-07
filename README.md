@@ -18,7 +18,7 @@
 <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="150" title="glitch-left"/>
 </td>
 <td align="center" width="400">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=4000&pause=800&color=00F7FF&multiline=true&center=false&width=435&height=170&lines=%F0%9F%8E%AF+name%3A+Vivek+Srinivasan;role%3A+Full-Stack+Developer+%26+IoT+Innovator;location%3A+India+%F0%9F%87%AE%F0%9F%87%B3;education%3A+B.Tech+Pre+Final+Year;passion%3A+[IoT%2C+AI%2C+Web+Dev%2C+Hackathons];current_focus%3A+Smart+Tech+Solutions+%F0%9F%92%A1;fun_fact%3A+%22Coffee+%E2%86%92+Code+%E2%86%92+Reality!%22;status%3A+Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=4000&pause=800&color=00F7FF&multiline=true&center=false&width=435&height=170&lines=%F0%9F%8E%AF+Name%3A+Vivek+S;Role%3A+Full-Stack+Developer+%26+IoT+Innovator;Location%3A+India+%F0%9F%87%AE%F0%9F%87%B3;Education%3A+B.Tech+Pre+Final+Year;Passion%3A+[IoT%2C+AI%2C+Web+Dev%2C+Hackathons];current_focus%3A+Smart+Tech+Solutions+%F0%9F%92%A1;fun_fact%3A+%22Coffee+%E2%86%92+Code+%E2%86%92+Reality!%22;status%3A+Always+Learning+%F0%9F%9A%80" />
 </td>
 <td align="center" width="200">
 <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="150" title="glitch-right"/>
@@ -89,7 +89,6 @@
 </div>
 
 ---
-
 ## 🏆 Achievements & Milestones
 
 <div align="center">
@@ -139,50 +138,6 @@
 ### 📞 Ready to Chat?
 
 <img src="https://img.shields.io/badge/Phone-+91%209080266483-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-</div>
-
----
-
-## 🎨 Fun Zone & Random Facts
-
-<div align="center">
-
-### ☕ Coffee to Code Ratio: 1:1 (Perfect Balance!)
-
-### 🌙 Favorite Time to Code: 2 AM - 5 AM (Night Owl Mode)
-
-### 📚 Currently Learning: WebRTC, Blockchain, Machine Learning
-
-### 🎯 Hobbies: Photography, Teaching, Event Management
-
-### 💪 Superpower: Converting complex problems into simple solutions
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Vivek%20Srinivasan" />
-
-**🚀 Always coding, always learning, always growing!**
-
-</div>
-
----
-
-## 💫 Current Focus & Future Goals
-
-<div align="center">
-
-### 🎯 What I'm Working On
-
-* 🔥 **Smart City IoT Solutions** - Making cities smarter
-* 🧠 **AI-Powered Healthcare** - Saving lives with technology
-* 🌐 **Full-Stack Applications** - Building scalable solutions
-* 👥 **Community Building** - Mentoring next-gen developers
-
-### 🚀 2025 Goals
-
-* [ ] Launch 3 major open-source projects
-* [ ] Speak at 10+ tech conferences
-* [ ] Mentor 100+ junior developers
-* [ ] Build a startup around IoT solutions
 
 </div>
 
