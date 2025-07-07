@@ -90,12 +90,8 @@
 
 ---
 ## 🏆 Achievements & Milestones
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek07022006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-
-### 🎖️ Major Wins
+🎖️ Major Wins
 
 * 🌟 **Multiple Event Championships** - College Level
 * 🎤 **Tech Event Speaker & Organizer** - 30+ Events
