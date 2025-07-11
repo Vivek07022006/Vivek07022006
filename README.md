@@ -147,7 +147,7 @@
 
 ### 💕 Show Some Love!
 
-If you like my work, consider giving a ⭐ to my repositories!
+If you like my work, consider giving a ⭐ to my repositories!!
 
 <img src="https://komarev.com/ghpvc/?username=Vivek07022006&style=for-the-badge&color=blue" />
 
