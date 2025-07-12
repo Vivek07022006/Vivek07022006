@@ -1,5 +1,4 @@
 <div align="center">
-
 # 🌟 Welcome to Vivek's Digital Universe! 🌟
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Pre-Final-year+Tech+Innovator;💡+IoT+%26+AI+Enthusiast;🧠+Full-Stack+Developer;🏆+Hackathon+Enthusiast;🎤+Event+Organizer+%26+Mentor;&font=Fira%20Code&center=true&width=600&height=70&color=00D9FF&vCenter=true&pause=1000&size=22" />
